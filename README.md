@@ -1,4 +1,4 @@
-# NetworkWalks — Week 01: Cybersecurity Lab Setup
+# NetworkWalks - Week 01: Cybersecurity Lab Setup
 
 A virtual cybersecurity lab built with **Oracle VirtualBox**, **Kali Linux**, and **Windows 10**. The lab uses a dedicated VirtualBox NAT Network so the virtual machines can communicate with each other and access external networks through NAT.
 
